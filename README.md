@@ -9,4 +9,4 @@ This repository contains a simple python implementation of the Kohonen self-orga
 
 ## What is a Kohonen Network?
 A Kohonen Network is a type of neural network that tries to represent the input data in a lower dimensional space while preserving to its best the topology of the input space.
-It can be used to reduce the dimensions of the data one want to analyze, as well as to simplify the input data for another neural network.
+It can be used to reduce the dimensions of the data one want to analyze, as well as to simplify the input data to input to another neural network.
